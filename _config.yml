@@ -17,6 +17,8 @@ credits: 'Credits: Landing Page ini dibuat untuk blog <a href="https://www.pbn.m
 # Build settings
 markdown: kramdown
 permalink: pretty
+plugin: 
+- jekyll-seo-tag
 
 # ----------------------- #
 #   3rd Party Settings    #
